@@ -1,0 +1,11 @@
+We have two scenarios here:
+	- Scenario one (Login with existent account) will be chosen to verify that normal path of the website is working correctly.
+        This scenario will use by default the account raquelmonle@verified.com
+        In case you would like to execute the test with other existent account should be defined in my steps.
+    - Scenario two (Login with nonexistent account) will be chosen to verify that you cannot log in with an nonexistent account.
+        This scenario will use by default the account raquelmonle@madeup.com
+        In case you would like to execute the test with other account must also be specified.
+
+For instance, if we don't specify anything, we will run the default configuration.
+
+\\As you can actually see in 'my stepsdefs' it is not defined anything as I explained you in the email\\
